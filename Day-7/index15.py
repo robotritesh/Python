@@ -6,4 +6,3 @@ class Student:
 student1 = Student("Alice", 20)
 print("Name:", student1.name)
 print("Age:", student1.age)
-cd D
